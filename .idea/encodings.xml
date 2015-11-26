@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$/res/_cities.txt" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/Client/CORBAConnect.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Client/CityReader.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Client/ClientFrame.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Client/ClientFrameEngine.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Client/JComboPopUp.java" charset="UTF-8" />
+  </component>
+</project>

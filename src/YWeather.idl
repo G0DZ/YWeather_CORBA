@@ -1,0 +1,10 @@
+module YWeatherApp
+{
+  interface YWeather
+  {
+  string getStringWeather(in long cityID);
+  oneway void shutdown();
+  };
+};
+
+
